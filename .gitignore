@@ -28,3 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+### IDEA 工作区配置（不要提交）###
+.idea/
+*.iml
